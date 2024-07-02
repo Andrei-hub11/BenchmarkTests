@@ -1,5 +1,4 @@
 ﻿using BenchmarkDotNet.Attributes;
-using ExtensionMethod.Extensions;
 
 namespace BenchmarkTests;
 
