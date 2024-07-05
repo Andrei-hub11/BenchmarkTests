@@ -6,4 +6,5 @@ using BenchmarkTests;
 //var summary3 = BenchmarkRunner.Run<BenchmarksString>();
 //var summary4 = BenchmarkRunner.Run<BenchmarksAnyOrExits>();
 //var summary5 = BenchmarkRunner.Run<BenchmarksTryParse>();
-var summary6 = BenchmarkRunner.Run<BenchmarksNameofOrToString>();
+//var summary6 = BenchmarkRunner.Run<BenchmarksNameofOrToString>();
+var summary7 = BenchmarkRunner.Run<BenchmarksAllOrTrueForAll>();

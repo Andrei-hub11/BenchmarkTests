@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 
-namespace ExtensionMethod.Extensions;
+namespace BenchmarkTests.Extensions;
 public static class CollectionExtensions
 {
     public static TProperty GetPropertyById<T, TProperty>(this IEnumerable<T> collection, Func<T, bool> idPredicate, Func<T, TProperty> propertySelector)
