@@ -7,4 +7,7 @@ using BenchmarkTests;
 //var summary4 = BenchmarkRunner.Run<BenchmarksAnyOrExits>();
 //var summary5 = BenchmarkRunner.Run<BenchmarksTryParse>();
 //var summary6 = BenchmarkRunner.Run<BenchmarksNameofOrToString>();
-var summary7 = BenchmarkRunner.Run<BenchmarksAllOrTrueForAll>();
+//var summary7 = BenchmarkRunner.Run<BenchmarksAllOrTrueForAll>();
+//var summary8 = BenchmarkRunner.Run<BenchmarkRemoveWhiteSpace>();
+//var summary9 = BenchmarkRunner.Run<BenchmarkRemoveWhiteSpace_Collection>();
+var summary10 = BenchmarkRunner.Run<BenchmarkRegex>();
